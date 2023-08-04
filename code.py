@@ -1,7 +1,7 @@
 import random
 import os
 
-# GENERATEUR DE LISTE ALEATOIRE DE PLUS DE 1000 INDENTITES
+# GENERATEUR DE LISTE ALEATOIRE DE PLUS DE 16 INDENTITES POUR EXEMPLE
 
 #liste des noms prealable
 liste_nom = ['Aaron', 'Getler', 'Sala', 'Kane', 'Poutine', 'Macron', 'harry', 'Kalvin', 'Edenberg', 'Mané', 'Trump', 'Verdez', 'Montiel', 
